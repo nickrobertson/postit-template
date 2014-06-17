@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fdd5b81-7884-4786-8790-1d40e88dbd13" name="Default" comment="">
+    <list default="true" id="3fdd5b81-7884-4786-8790-1d40e88dbd13" name="Default" comment="test">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="postit-template.iws" />
@@ -58,8 +58,8 @@
       <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.rdoc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3723404" vertical-offset="0" max-vertical-offset="846">
-              <caret line="21" column="88" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="88" />
+            <state vertical-scroll-proportion="0.31914893" vertical-offset="0" max-vertical-offset="846">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -700,7 +700,11 @@
       <created>1403030345043</created>
       <updated>1403030345043</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1403030354730</created>
+      <updated>1403030354730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1129,8 +1133,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3723404" vertical-offset="0" max-vertical-offset="846">
-          <caret line="21" column="88" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.31914893" vertical-offset="0" max-vertical-offset="846">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding />
         </state>
       </provider>
